@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridabensalem" alt="ridabensalem" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js, Mern stack**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **PHP, CSS , Js**
+- 💬 Ask me about **PHP, CSS , MERN stack**
 
 - 📫 How to reach me **ridasbnesalmas@gmail.com**
 
