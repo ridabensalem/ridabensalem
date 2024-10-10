@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridabensalem&label=Profile%20views&color=0e75b6&style=flat" alt="ridabensalem" /> </p>
 
-- 🌱 I’m currently hunting  **Bugs**
-- 
+-  I’m currently hunting  **Bugs** 🐛
 - 💬 Ask me about **PHP, CSS , MERN stack**
 
 - 📫 How to reach me **ridasbnesalmas@gmail.com**
